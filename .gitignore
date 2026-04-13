@@ -4,10 +4,4 @@
 
 # sistema
 .DS_Store
-Thumbs.db**/__pycache__/
-*.py[cod]
-*$py.class
-
-# sistema
-.DS_Store
-Thumbs.db
+Thumbs.db*
